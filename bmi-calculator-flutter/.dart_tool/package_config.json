@@ -56,6 +56,12 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "font_awesome_flutter",
+      "rootUri": "file:///C:/Users/BNDem/AppData/Local/Pub/Cache/hosted/pub.dev/font_awesome_flutter-10.4.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "js",
       "rootUri": "file:///C:/Users/BNDem/AppData/Local/Pub/Cache/hosted/pub.dev/js-0.6.7",
       "packageUri": "lib/",
@@ -140,7 +146,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-06-18T13:09:09.711807Z",
+  "generated": "2023-06-19T14:16:10.961434Z",
   "generator": "pub",
   "generatorVersion": "3.0.5"
 }
